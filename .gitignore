@@ -1,0 +1,6 @@
+generated_xmls/
+generated_data_bases/
+__pycache__/
+.idea/
+data_base_sources/__pycache__/
+utils/__pycache__/
